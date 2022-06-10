@@ -33,13 +33,14 @@ KMeans Clusters Centres
 **CONFUSION MATRIX:**
 
 [[138  74]
+
 [531  34]]
 
 
 
 **CLASSIFICATION REPORT:**
 
-**precision    recall  f1-score   support**
+**precision      recall      f1-score       support**
 
            0       0.21      0.65      0.31       212
            1       0.31      0.06      0.10       565
