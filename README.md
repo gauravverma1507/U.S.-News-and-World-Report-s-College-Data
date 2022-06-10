@@ -1,7 +1,7 @@
 # U.S.-News-and-World-Report-s-College-Data
 KMeans Clustering on Private and Public Colleges on the basis of spendings of costing
 
-where the data is :
+**Where the Data is :**
 
 
 Private A factor with levels No and Yes indicating private or public university
@@ -29,9 +29,17 @@ Grad.Rate Graduation rate
 also in the last i have orinted the confusion matrix which shows the accuracy on the basis of 
 KMeans Clusters Centres
 
+
+**CONFUSION MATRIX:**
+
 [[138  74]
- [531  34]]
-              precision    recall  f1-score   support
+[531  34]]
+
+
+
+**CLASSIFICATION REPORT:**
+
+**precision    recall  f1-score   support**
 
            0       0.21      0.65      0.31       212
            1       0.31      0.06      0.10       565
@@ -42,7 +50,7 @@ weighted avg       0.29      0.22      0.16       777
 
 
 
-Visualization part is also done on this DataSet
+**Visualization** part is also done on this DataSet
 
 ![image](https://user-images.githubusercontent.com/93917207/173014511-1f3fa570-4fa2-4339-8313-f5e7e902c890.png)
 
